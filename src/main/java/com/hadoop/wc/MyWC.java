@@ -14,10 +14,11 @@ import java.util.Properties;
 public class MyWC {
 
     public static void main(String[] args) throws IOException, ClassNotFoundException, InterruptedException {
+        // to solve win-user doesnt have authority
         Properties properties = System.getProperties();
         properties.setProperty("HADOOP_USER_NAME", "hadoop");
 
-//
+        // to solve Failed to connect to :master:50010
         Configuration conf = new Configuration(true);
         conf.set("dfs.client.use.datanode.hostname", "true");
 

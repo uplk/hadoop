@@ -2,20 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e16c254f-739d-456b-ace1-6181a7f1f6af" name="Default Changelist" comment="最简单的word count，能够运行了">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WordCount.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hadoop/wc/MyMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hadoop/wc/MyReducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hadoop/wc/MyWC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/core-site.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hdfs-site.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/hadoop.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hadoop/wc/MyWC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hadoop/wc/MyWC.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,10 +58,10 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.37997055" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -80,7 +71,7 @@
   <component name="RunManager">
     <configuration name="MyWC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.hadoop.wc.MyWC" />
-      <module name="WordCount" />
+      <module name="hadoop" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.hadoop.wc.*" />
@@ -120,6 +111,7 @@
       <option name="presentableId" value="Default" />
       <updated>1581334991556</updated>
       <workItem from="1581334995223" duration="6127000" />
+      <workItem from="1581400341900" duration="966000" />
     </task>
     <servers />
   </component>
@@ -132,6 +124,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="最简单的word count，能够运行了" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="386" y="28" width="594" height="671" key="#MyWC" timestamp="1581400673334">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="386" y="28" width="594" height="671" key="#MyWC/0.0.1366.728@0.0.1366.728" timestamp="1581400673334" />
     <state x="275" y="26" key="#Project_Structure" timestamp="1581335153918">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -140,34 +136,34 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="829" y="76" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1581336540346" />
-    <state x="586" y="0" key="CommitChangelistDialog2" timestamp="1581341380919">
+    <state x="491" y="0" key="CommitChangelistDialog2" timestamp="1581401193272">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="586" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1581341380919" />
+    <state x="491" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1581401193272" />
     <state x="379" y="87" key="FileChooserDialogImpl" timestamp="1581336047117">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="379" y="87" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1581336047117" />
-    <state width="1323" height="100" key="GridCell.Tab.0.bottom" timestamp="1581341380940">
+    <state width="1323" height="253" key="GridCell.Tab.0.bottom" timestamp="1581400698188">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="100" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581341380940" />
-    <state width="1323" height="100" key="GridCell.Tab.0.center" timestamp="1581341380940">
+    <state width="1323" height="253" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581400698188" />
+    <state width="1323" height="253" key="GridCell.Tab.0.center" timestamp="1581400698188">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="100" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1581341380940" />
-    <state width="1323" height="100" key="GridCell.Tab.0.left" timestamp="1581341380940">
+    <state width="1323" height="253" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1581400698188" />
+    <state width="1323" height="253" key="GridCell.Tab.0.left" timestamp="1581400698188">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="100" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1581341380940" />
-    <state width="1323" height="100" key="GridCell.Tab.0.right" timestamp="1581341380940">
+    <state width="1323" height="253" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1581400698188" />
+    <state width="1323" height="253" key="GridCell.Tab.0.right" timestamp="1581400698188">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="100" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581341380940" />
-    <state x="186" y="0" key="SettingsEditor" timestamp="1581341541344">
+    <state width="1323" height="253" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581400698188" />
+    <state x="186" y="0" key="SettingsEditor" timestamp="1581400635022">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="186" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1581341541344" />
+    <state x="186" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1581400635022" />
     <state x="819" y="286" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581336697740">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
