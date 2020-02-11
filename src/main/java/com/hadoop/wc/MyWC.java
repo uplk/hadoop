@@ -14,6 +14,7 @@ import java.util.Properties;
 public class MyWC {
 
     public static void main(String[] args) throws IOException, ClassNotFoundException, InterruptedException {
+        //Test conflict: Project Manager
         // to solve win-user doesnt have authority
         Properties properties = System.getProperties();
         properties.setProperty("HADOOP_USER_NAME", "hadoop");
